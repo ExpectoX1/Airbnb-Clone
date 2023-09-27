@@ -33,7 +33,7 @@ export default function Header() {
             </svg>
           </div>
           {!!user && (
-            <div className='text-xs font-bold scale-90'>
+            <div className=' text-xs font-bold scale-90'>
               {user.name}
             </div>
           )}

@@ -15,7 +15,7 @@ export default function RegisterPage() {
            email,
            password, 
         });
-        alert('Registation Successful ! No you can Login')
+        alert('Registation Successful ! Now you can Login')
  
         }
         catch(e){
